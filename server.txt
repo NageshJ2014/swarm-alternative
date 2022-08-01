@@ -1,0 +1,4 @@
+server2=rndqa2.metricstream.com=0=16
+server4=rndqa4.metricstream.com=0=16
+server1=rndqa1.metricstream.com=0=16
+server3=rndqa3.metricstream.com=0=16
